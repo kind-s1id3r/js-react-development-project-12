@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/kind-s1id3r/js-react-development-project-12/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/kind-s1id3r/js-react-development-project-12/actions)
